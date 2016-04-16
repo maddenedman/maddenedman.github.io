@@ -12,7 +12,7 @@ body {
     margin: 0;
     padding: 0;
     height: 100%;
-    background-image: url("resources/gplaypattern.png");
+    background: #C4FCFF;
 }
 footer {
     text-align: center;
@@ -21,7 +21,7 @@ footer {
     position: absolute;
     top:0;
     left:0;
-    background: rgba(100, 140, 150, 0.5);
+    background: #36ADB2;
     width: 100%;
     z-index: -1;
 }
@@ -51,10 +51,10 @@ footer {
     height: 60px;
 }
 h1, h2, h3, h4, h5 {
-    font-family: 'Josefin Slab', sans-serif;
+    font-family: 'Voltaire', sans-serif;
 }
 p, li  {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Overlock', sans-serif;
 }
 a:link {
     color: rgb(40, 90, 120);
