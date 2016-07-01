@@ -1,0 +1,15 @@
+body
+{
+font-family:Arial,Helvetica;
+width:40em;
+margin-left:10em;
+font-size:12pt;
+line-height:1.75em;
+background-color:EEEEEE;
+color:222222;
+}
+p
+{
+margin:0;
+text-indent:2em;
+}
