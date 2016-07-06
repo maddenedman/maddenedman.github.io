@@ -1,6 +1,6 @@
 body {
-    background-color:#DDCCFF; 
-    color:#105750; 
+    background-color:#8F8F8F; 
+    color:#9E1E4C; 
     font-family:Lato;
 }
 
@@ -13,23 +13,28 @@ address {
 }
 
 div {
-    border: 1px solid black;
+    border: 1px solid #25020F;
     padding: 10px;
-    background-color:#EEEEEE;
+    background-color:#ECECEC;
     margin-left:40px;
     margin-right:40px;
 }
 
 p {
-    border: 1px solid black;
+    border: 1px solid #25020F;
     padding: 10px;
     margin: 20px;
+    background-color:#F6F6F6;
+}
+
+p.nobox {
+    border: 1px solid FF1168;
 }
 
 a {
-    color: #662233;
+    color: #FF1168;
 }
 
 #silly {
-    background-color:#DDCCFF;
+    background-color:#8F8F8F;
 }
