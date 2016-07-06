@@ -1,3 +1,35 @@
-html {
-	font-family: 'Lato';
+body {
+    background-color:#DDCCFF; 
+    color:#105750; 
+    font-family:Lato;
+}
+
+h1 {
+    text-align:center;
+}
+
+address {
+    font-family:"courier new";
+}
+
+div {
+    border: 1px solid black;
+    padding: 10px;
+    background-color:#EEEEEE;
+    margin-left:40px;
+    margin-right:40px;
+}
+
+p {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 20px;
+}
+
+a {
+    color: #662233;
+}
+
+#silly {
+    background-color:#DDCCFF;
 }
