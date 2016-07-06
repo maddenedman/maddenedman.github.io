@@ -18,15 +18,36 @@
         <h5>Has learnt to fly</h5>
         <h6>But it has yet <br>to learn <br>how to descend</h6>
 
-        <p>Hello</p>
+        <p><a href="#longquote">Hello</a></p>
         
         <p id="silly">This <sup>is</sup> <del>not</del> <ins>just</ins> <i>another</i> <b>short</b> <strong>paragraph</strong>. <mark>Links</mark> <small>appear</small> <sub>like</sub> <a href="http://www.lachfm.com">this.</a></p>
         
-        <img src="small.gif" alt="Mr. Small">
+        <img src="small.gif" alt="Mr. Small" style="float:right">
         
         <hr>
         
         <p class="nobox">We need a line<br />break</p>
+        
+        <table>
+            <caption>A table of table</caption>
+            <tr>
+                <th>First</th>
+                <th>Second</th>
+                <th>Third</th>
+            </tr>
+            <tr>
+                <td>We need a table.</td>
+                <td>Yes it is table time.</td>
+                <td rowspan="2">I am a greedy rowhogger<br>I take up too many rows.</td>
+            </tr>
+            <tr>
+                <td>A table though?</td>
+                <td>Yeah. Tables are necessary.</td>
+            </tr>
+            <tr>
+                <td colspan="3">I am a greedy cell. I take up three.</td>
+            </tr>
+        </table>
         
         <pre>
 Another
@@ -39,7 +60,7 @@ Another
         
         <p>And now: <q>This is a short quote</q></p>
         
-        <p class="nobox">And a longer quote:</p>
+        <p class="nobox" id="longquote">And a longer quote:</p>
         <blockquote>For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.</blockquote>
         
         <p>To this I say: <abbr title="What Tom Foolery">WTF</abbr>.</p>
@@ -53,7 +74,7 @@ Another
     <address style="font-family:courier new;">
         Written by Lachlan Macleod<br>
         He is at:<br>
-        <a href="http://www.lachfm.com">LachFM.com</a>
+        <a href="http://www.lachfm.com" target="_blank">LachFM.com</a>
     </address>
 </body>
 </html>

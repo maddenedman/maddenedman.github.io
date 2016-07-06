@@ -32,13 +32,27 @@ p {
     background-color:#CCC;
 }
 
+table, th, tr, td {
+    border: 1px solid #888;
+    'border-collapse: collapse;
+    padding: 10px;
+    border-spacing: 5px;
+    margin-left:50px;
+    margin-right:50px;
+}
+
+tr, td {
+    padding: 10px;
+}
+
 p.nobox {
     border: 0px;
 }
 
-a {
-    color: #FF0000;
-}
+a:link {color:#666;}
+a:visited {color:777;}
+a:hover {color:999;}
+a:active {color:red;}
 
 #silly {
     background-color:#EEE;
