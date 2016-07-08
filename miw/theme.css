@@ -1,0 +1,37 @@
+body {
+    font-family:'Lato';
+}
+
+#headerdiv{
+    background-color:#F00;
+    text-align:center;
+    padding:10px;
+}
+
+#bodydiv {
+    background-color:#0F0;
+}
+
+#contentdiv {
+    background-color:#FF0;
+    width:70%;
+    float:left;
+    height:auto;
+}
+
+#sidenavdiv {
+    background-color:#0FF;
+    width:30%;
+    float:right;
+    height:400px;
+}
+
+#footerdiv {
+    background-color:#00F;
+    float:left;
+    width:100%;
+}
+
+p {
+    padding:10px;
+}
