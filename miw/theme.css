@@ -5,21 +5,25 @@ body {
 
 #topdiv{
     background-color:#333;
-    text-align:center;
+    'text-align:center;
 }
 
 #headerdiv {
     margin: 10px 40px 0 40px;
     background-color:#CCC;
     border-radius: 40px 40px 0 0;
+    text-align:center;
 }
 
 #topmenu {
     text-align: center;
-    background-color:#DDD;
-    margin: 0 100px 0 100px;
+    background-color:#999;
+    color:#EEE;
+    'margin: 0 100px 0 100px;
+    margin-left: 100px;
     padding: 10px;
     border-radius: 4px 4px 0 0;
+    display:inline-block;
 }
 
 #bodydiv {
@@ -36,6 +40,25 @@ body {
 #contentdiv {
     margin: 0 0 0 40px;
     background-color:#EEE;
+    min-height:820px;
+}
+
+#leftnav {
+    padding:0 10px 10px 10px;
+    margin-right:20px;
+    background-color:#CCC;
+    float:left;
+    height:auto;
+    width:200px;
+    height:800px;
+}
+
+div.navboxdiv {
+    border: 1px solid #999;
+    padding:10px;
+    background-color:#EEE;
+    border-radius:4px;
+    margin: 0 0 10px 0;
 }
 
 #rightdiv {
@@ -52,7 +75,8 @@ body {
 }
 
 #footerdiv {
-    background-color:#CCC;
+    background-color:#999;
+    color:#EEE;
     float:left;
     width:100%;
     border-radius:4px 4px 0 0;
@@ -66,6 +90,7 @@ p {
 h1 {
     padding:40px;
     margin: 0px;
+    text-align:center;
 }
 
 a:link {color:#666;}
