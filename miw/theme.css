@@ -11,23 +11,29 @@ body {
     background-color:#0F0;
 }
 
-#contentdiv {
+#leftdiv {
     background-color:#FF0;
     width:70%;
     float:left;
     height:auto;
 }
 
-#articlediv {
-    margin-left:40px;
+#contentdiv {
+    margin: 0 0 0 40px;
     background-color:#F0F;
 }
 
-#sidenavdiv {
+#rightdiv {
     background-color:#0FF;
     width:30%;
     float:right;
     height:400px;
+}
+
+#sidenavdiv {
+    background-color:#0F0;
+    margin: 0 40px 0 0;
+    float:left; 
 }
 
 #footerdiv {
@@ -38,8 +44,10 @@ body {
 
 p {
     padding:10px;
+    margin:0px;
 }
 
 h1 {
     padding:40px;
+    margin: 0px;
 }
