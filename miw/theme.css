@@ -43,6 +43,12 @@ body {
     min-height:820px;
 }
 
+#articlediv {
+    background-color:#EEE;
+    margin-left:240px;
+    margin-right:40px;
+}
+
 #leftnav {
     padding:0 10px 10px 10px;
     margin-right:20px;
@@ -50,7 +56,7 @@ body {
     float:left;
     height:auto;
     width:200px;
-    height:800px;
+    border-radius: 0 0 4px 0;
 }
 
 div.navboxdiv {
@@ -59,6 +65,7 @@ div.navboxdiv {
     background-color:#EEE;
     border-radius:4px;
     margin: 0 0 10px 0;
+    'text-align:right;
 }
 
 #rightdiv {
@@ -67,7 +74,7 @@ div.navboxdiv {
     float:right;
 }
 
-#sidenavdiv {
+#rightblurbdiv {
     background-color:#CCC;
     margin: 0 40px 0 0;
     float:left;
@@ -80,6 +87,7 @@ div.navboxdiv {
     float:left;
     width:100%;
     border-radius:4px 4px 0 0;
+    text-align:center;
 }
 
 p {
@@ -87,13 +95,42 @@ p {
     margin:0px;
 }
 
-h1 {
-    padding:40px;
+div#rightblurbdiv p {
+    padding:10px;
+    margin:0px;
+}
+
+div#headerdiv h1 {
+    padding: 40px 40px 0 40px;
     margin: 0px;
     text-align:center;
+    color:#333;
+}
+
+div#headerdiv h4 {
+    color:#666;
 }
 
 a:link {color:#666;}
 a:visited {color:777;}
 a:hover {color:999;}
 a:active {color:red;}
+
+a.toplinks:link,a.toplinks:visited {color:#EEE;}
+a.toplinks:hover {color:#FFF;}
+a.toplinks:active {color:#CCC;}
+a.toplinks {text-decoration:none;}
+
+a.footerlinks:link,a.footerlinks:visited {color:#EEE; text-decoration:none;}
+a.footerlinks:hover {color:#FFF; text-decoration:underline;}
+a.footerlinks:active {color:#CCC;}
+a.footerlinks {text-decoration:underline;}
+
+a.navlinks:link,a:visited {color:#666;}
+a.navlinks:hover {color:#222; text-decoration:underline;}
+a.navlinks:active {color:#333;}
+a.navlinks {text-decoration:none;}
+
+img.picture {
+    padding:10px;
+}
