@@ -76,6 +76,17 @@ span.line2{
     font-size:11px;
 }
 
+table.contacttable{
+    background-color:#e7e5cb;
+    width:100%;
+    padding:5px;
+    border-radius:5px;
+}
+
+tr.contactrow:nth-child(even){
+    background-color:#dfdcba;
+}
+
 table.networktable{
     background-color:#e7e5cb;
     width:100%;
