@@ -17,7 +17,7 @@ div.mainbody{
 
 span.mainheading{
     color:#555025;
-    font-size:34px;
+    font-size:28px;
     font-weight: bold;
     margin-top:20px;
     margin-bottom:10px;
@@ -31,6 +31,15 @@ div.categoryheading{
     font-size:24px;
     display:block;
     margin-top:10px;
+    margin-bottom:0px;
+    text-align:center;
+}
+
+div.categorydescriptor{
+    color:#555025;
+    font-style:italic;
+    font-size:14px;
+    display:block;
     margin-bottom:5px;
     text-align:center;
 }
@@ -54,7 +63,7 @@ div.contactlist{
     padding:10px;
     position:relative;
     text-align:left;
-    font-size:14px;
+    font-size:13px;
 }
 
 img.iconimage{
