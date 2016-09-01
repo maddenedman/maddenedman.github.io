@@ -25,13 +25,6 @@ span.mainheading{
     text-align:center;
 }
 
-table.linkcategory{
-    background-color:#e7e5cb;
-    width:100%;
-    border-radius:5px;
-    padding:10px;
-}
-
 div.categoryheading{
     color:#555025;
     font-weight: bold;
@@ -40,23 +33,22 @@ div.categoryheading{
     margin-top:10px;
     margin-bottom:5px;
     text-align:center;
-    'background-color:aqua;
 }
 
-td.linkbox{
-    'background-color:lightgrey;
+div.linkcontainer{
+    background-color:#e7e5cb;
+    border-radius:5px;
     padding:10px;
-    'width:180px;
+    display:flex;
+    flex-flow:row wrap;
+    justify-content:space-around;
+}
+
+div.linkitem{
+    padding:10px;
     position:relative;
     text-align:center;
-    'display:relative;
-    'min-width:150px;
-    'width:120px;
-}
-
-tr.linkrow{
-    'background-color:bisque;
-    padding-top:20px;
+    display:flex;
 }
 
 img.iconimage{
@@ -93,9 +85,7 @@ table.networktable{
     border-radius:5px;
 }
 
-tr.networkrow{
-    'background-color:bisque;
-}
+tr.networkrow{}
 
 td.networkheader{
     font-weight:bold;
@@ -104,7 +94,6 @@ td.networkheader{
 }
 
 td.networkname{
-    'background-color:purple;
     width:25%;
     font-size:12px;
 }
