@@ -4,6 +4,10 @@ body{
     color:#000000;
 }
 
+p{
+    margin:0;
+}
+
 div.mainbody{
     background-color:#FFFFFF;
     position:relative;
@@ -82,17 +86,6 @@ span.line2{
     font-size:11px;
 }
 
-table.contacttable{
-    background-color:#e7e5cb;
-    width:100%;
-    padding:5px;
-    border-radius:5px;
-}
-
-tr.contactrow:nth-child(even){
-    background-color:#dfdcba;
-}
-
 div.networkcontainer{
     background-color:#e7e5cb;
     border-radius:5px;
@@ -135,4 +128,3 @@ div.footer{
 
 a{color:#993333;text-decoration:none;}
 a:hover{text-decoration:underline;}
-'a:visited{color:black;}
