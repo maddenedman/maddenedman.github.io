@@ -48,7 +48,13 @@ div.linkitem{
     padding:10px;
     position:relative;
     text-align:center;
-    display:flex;
+}
+
+div.contactlist{
+    padding:10px;
+    position:relative;
+    text-align:left;
+    font-size:14px;
 }
 
 img.iconimage{
@@ -78,23 +84,28 @@ tr.contactrow:nth-child(even){
     background-color:#dfdcba;
 }
 
-table.networktable{
+div.networkcontainer{
     background-color:#e7e5cb;
-    width:100%;
-    padding:5px;
     border-radius:5px;
+    padding:10px;
+    display:flex;
+    flex-flow:row wrap;
+    justify-content:flex-start;
 }
 
-tr.networkrow{}
+div.networkstate{
+    width:180px;
+    position:relative;
+    padding:5px 5px 0 5px;
+}
 
-td.networkheader{
+span.networkheader{
     font-weight:bold;
     padding-top:15px;
     color:#555025;
 }
 
-td.networkname{
-    width:25%;
+span.networkcontent{
     font-size:12px;
 }
 
