@@ -1,0 +1,69 @@
+/* written by caitelatte 2014
+* co-opted by lachelatte 2016
+* thanks sibleb */
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  height: 100%;
+}
+body {
+    /* padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px; */
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #DDDDDD;
+}
+footer {
+    text-align: center;
+}
+#banner {
+    position: absolute;
+    top:0;
+    left:0;
+    background: #BBBBBB;
+    width: 100%;
+    z-index: -1;
+}
+#banner * {
+    visibility: hidden;
+    margin-top: 0px;
+}
+#container {
+    min-height: 100%;
+    position: relative;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#body {
+    padding: 10px;
+    padding-bottom: 60px;
+}
+#body #title {
+    margin-top: 5px;
+    text-align: center;
+}
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+}
+h1, h2, h3, h4, h5 {
+    font-family: 'Voltaire', sans-serif;
+}
+p, li  {
+    font-family: 'Overlock', sans-serif;
+}
+a:link {
+    color: rgb(40, 90, 120);
+}
+a:visited {
+    color: rgb(90, 40, 120);
+}
+a:hover, a:active {
+    color: rgb(0, 150, 150);
+}
