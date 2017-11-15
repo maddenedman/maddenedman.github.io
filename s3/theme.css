@@ -14,7 +14,7 @@ body {
     margin: 0;
     padding: 0;
     height: 100%;
-    background: #DDDDDD;
+    background: #C4FCFF;
 }
 footer {
     text-align: center;
@@ -23,7 +23,7 @@ footer {
     position: absolute;
     top:0;
     left:0;
-    background: #BBBBBB;
+    background: #36ADB2;
     width: 100%;
     z-index: -1;
 }
