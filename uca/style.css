@@ -1,0 +1,130 @@
+body{
+    background-color:#555025;
+    font-family:sans-serif;
+    color:#000000;
+}
+
+p{
+    margin:0;
+}
+
+div.mainbody{
+    background-color:#FFFFFF;
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;
+    width:80%;
+    max-width:800px;
+    padding:10px;
+    border-radius:15px;
+}
+
+span.mainheading{
+    color:#555025;
+    font-size:28px;
+    font-weight: bold;
+    margin-top:20px;
+    margin-bottom:10px;
+    display:block;
+    text-align:center;
+}
+
+div.categoryheading{
+    color:#555025;
+    font-weight: bold;
+    font-size:24px;
+    display:block;
+    margin-top:10px;
+    margin-bottom:0px;
+    text-align:center;
+}
+
+div.categorydescriptor{
+    color:#555025;
+    font-style:italic;
+    font-size:14px;
+    display:block;
+    margin-bottom:5px;
+    text-align:center;
+}
+
+div.linkcontainer{
+    background-color:#e7e5cb;
+    border-radius:5px;
+    padding:10px;
+    display:flex;
+    flex-flow:row wrap;
+    justify-content:space-around;
+}
+
+div.linkitem{
+    padding:10px;
+    position:relative;
+    text-align:center;
+}
+
+div.contactlist{
+    padding:10px;
+    position:relative;
+    text-align:left;
+    font-size:13px;
+}
+
+img.iconimage{
+    width:80px;
+    height:80px;
+    border-radius:5px;
+}
+
+span.line1{
+    font-weight:bold;
+    font-size:13px;
+}
+
+span.line2{
+    font-style:italic;
+    font-size:11px;
+}
+
+div.networkcontainer{
+    background-color:#e7e5cb;
+    border-radius:5px;
+    padding:10px;
+    display:flex;
+    flex-flow:row wrap;
+    justify-content:flex-start;
+}
+
+div.networkstate{
+    width:180px;
+    position:relative;
+    padding:5px 5px 0 5px;
+}
+
+span.networkheader{
+    font-weight:bold;
+    padding-top:15px;
+    color:#555025;
+}
+
+span.networkcontent{
+    font-size:12px;
+}
+
+div.tweets{
+    text-align:center;
+    background-color:#e7e5cb;
+    padding:5px;
+    border-radius:5px;
+}
+
+div.footer{
+    background-color:#FFFFFF;
+    padding:10px;
+    text-align:center;
+    font-size:12px;
+    margin-top:20px;
+}
+
+a{color:#993333;text-decoration:none;}
+a:hover{text-decoration:underline;}
