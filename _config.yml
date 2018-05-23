@@ -1,5 +1,5 @@
 # Site
-title:              NCIAC
+title:              Massively
 bio:                'National Centre for Assumption Inference and Conjecture'
 description:        "National Centre for Assumption Inference and Conjecture"
 locale:             en_US
@@ -41,9 +41,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Australia
-phone:              00-00-00
-email:              media@nciac.com
+location:           Los Angeles, CA
+phone:              310-318-5555
+email:              info@default.com
 
 # Gems
 gems:
