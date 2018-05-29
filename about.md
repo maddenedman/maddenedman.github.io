@@ -9,7 +9,7 @@ sitemap:
 ---
 ## About the National Centre for Inference Assumption and Conjecture
 
-<span class="image left"><img src="{{ "/images/logo/nciac-logo-med.png" | absolute_url }}" alt="" /></span>
+<span class="image right"><img src="{{ "/images/logo/nciac-logo-med.png" | absolute_url }}" alt="" /></span>
 
 The National Centre for Inference Assumption and Conjecture is one of Australia's most think tanks. With its diverse staff NCIAC is able to provide its oh-so-valuable input into a wide variety of topics affecting every day people like you and Meeble.
 
