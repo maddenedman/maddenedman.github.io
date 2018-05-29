@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Media release: Man talking to pigeons outside office window requires action"
+title:  "Man talking to pigeons outside office window requires action: Media release"
 date:   2018-05-29
 excerpt: "Surely he can't keep up interest in this activity for much longer."
 image: "/images/pigeons-on-the-roof.jpg"
@@ -39,4 +39,4 @@ Ms Mushroom thinks that this matter should be brought before a higher power.
 
 "Is there a bird court? There should be a bird court." 
 
-(Download this media release as a PDF)[/mr/180529-mr-nciac-man-talking-to-pigeons-outside-office-window.pdf]
+[Download this media release as a PDF](/mr/180529-mr-nciac-man-talking-to-pigeons-outside-office-window.pdf)
