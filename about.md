@@ -20,3 +20,7 @@ The National Centre for Inference Assumption and Conjecture is one of Australia'
   </p>
   <p>NCIAC guarantees one hundred per cent that it will spell things.</p>
 </div>
+
+## Contact us
+
+You can contact the National Centre for Inference Assumption and Conjecture by email at <a href="mailto:media@nciac.com">media@nciac.com</a>. We're also on Twitter at <a href="https://www.twitter.com/NatCentre">@NatCentre</a> and on Facebook at <a href="https://fb.me/nciac">fb.me/nciac</a>
