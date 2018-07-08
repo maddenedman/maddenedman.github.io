@@ -27,6 +27,6 @@ A coffee pod salesperson said that the multicoloured coffee pods are fine.
 
 “They’re not weird, they’re boutique. That’s why they cost almost twice as much. Do you need a bag with that? See you next time,” they said.
 
-Still no action on the important, yet not urgent, matter has taken place.
+No action has yet been taken in regards to the important, yet not urgent, issue.
 
 [Download this media release as a PDF](/mr/180709-mr-nciac-deal-with-it-in-morning.pdf)
