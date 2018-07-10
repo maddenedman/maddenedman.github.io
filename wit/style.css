@@ -1,6 +1,11 @@
 body {
     font-family:sans-serif;
-    background-image:url('images/title.jpg');
+    background-image:url('images/bg.jpg');
+    background-size:100%;
+    background-repeat: no-repeat;
+    background-position:top center;
+    background-color:black;
+    background-attachment:fixed;
 }
 
 div.wholething{
@@ -9,20 +14,28 @@ div.wholething{
     margin:auto;
 }
 
-.left, .right {
-    width: 20%;
-}
-
-.main {
-    width: 80%;
+.imghead{
+    display: block;
+    margin: 10vh auto 10px auto;
+    width:30%;
+    max-width:300px;
 }
 
 h1 {
     text-align:center;
     padding:3px;
     color:grey;
-    margin: 50px 0px 10px 0px;
+    margin: 25px 0px 10px 0px;
     font-size:6vw;
+}
+
+.subtitle {
+    margin:0px 0px 15px 0px;
+    text-align: center;
+    color: #AAA;
+    font-size:3vw;
+    font-family:serif;
+    font-style:italic;
 }
 
 ul.menuul {
@@ -31,7 +44,7 @@ ul.menuul {
     padding: 0;
     overflow: hidden;
     background-color: #333333;
-    border: 2px solid darkgrey;
+    border: 2px solid #333333;
 }
 
 li.menuli {
@@ -55,7 +68,21 @@ li.menuli a:hover {
 div.thing {
     color:lightgrey;
     background-color:rgba(44,44,44, 0.7);
-    border: 2px solid darkgrey;
+    border: 2px solid #333333;
     margin: 5px 0px;
     padding: 0px 5px;
+}
+
+.paraimage {
+    width:40%;
+    padding:5px;
+}
+
+.footer{
+    color:grey;
+    font-size:12px;
+    text-align:center;
+    background-color: #333333;
+    padding: 5px;
+    margin: 5px;
 }
