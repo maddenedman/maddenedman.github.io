@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+    <title>Thing</title>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+        function thisFunction(avariable) {
+            document.getElementById("burger").innerHTML = avariable;
+        }
+    </script>
+</head>
+    
+<body>
+<div class="wholething">
+    <h1>This is a title</h1>
+
+    <ul class="menuul">
+        <li class="menuli"><a href="#">One</a></li>
+        <li class="menuli"><a href="#">Two</a></li>
+        <li class="menuli"><a href="#">Three</a></li>
+        <li class="menuli"><a href="#">Four</a></li>
+    </ul>
+    <div class="thing">
+    <p>Hello there</p>
+    
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a ipsum vel tortor egestas accumsan sit amet nec neque. Suspendisse potenti. Cras et tincidunt ex, non sollicitudin felis. Nullam quis mauris erat. Donec venenatis hendrerit est ac aliquet. Vestibulum lacinia augue eu ligula pellentesque consectetur. Cras in lectus gravida risus vulputate convallis. Curabitur et tortor ac eros tempus elementum. Fusce volutpat felis et pharetra aliquet. Donec quis urna vitae magna dictum convallis sit amet faucibus orci.</p>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a ipsum vel tortor egestas accumsan sit amet nec neque. Suspendisse potenti. Cras et tincidunt ex, non sollicitudin felis. Nullam quis mauris erat. Donec venenatis hendrerit est ac aliquet. Vestibulum lacinia augue eu ligula pellentesque consectetur. Cras in lectus gravida risus vulputate convallis. Curabitur et tortor ac eros tempus elementum. Fusce volutpat felis et pharetra aliquet. Donec quis urna vitae magna dictum convallis sit amet faucibus orci.</p>
+    </div>
+    
+    <button type="button" onclick="thisFunction('boop')">CLICK</button>
+    
+    <button type="button" onclick="thisFunction('pooooo')">ALSO CLICK</button>
+    
+    <div class="thing"><p id="burger">BURGER</p></div>
+    
+    <img src="images/bg.jpg" alt="A car" style="max-width:100%;">
+</div>
+</body>
+
+</html>
