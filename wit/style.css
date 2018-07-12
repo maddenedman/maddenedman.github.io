@@ -1,6 +1,6 @@
 body {
     font-family: 'Lato', sans-serif;
-    background-image:url('images/bg.jpg');
+    background: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,0) 10%, black 30%), url('images/title.jpg');
     background-size:100%;
     background-repeat: no-repeat;
     background-position:top center;
@@ -83,7 +83,7 @@ article {
 h2 {
     text-align: center;
     color: #888888;
-    font-family: 'Passion One', sans-serif;
+    font-family: Lato, sans-serif;
     font-weight:100;
     font-size:5vw
 }
