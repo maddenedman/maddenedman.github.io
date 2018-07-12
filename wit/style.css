@@ -64,7 +64,7 @@ li.menuli a {
     text-align: center;
     padding: 5px 10px;
     text-decoration: none;
-    font-size:2vw
+    font-size:2vw;
 }
 
 li.menuli a:hover {
@@ -85,7 +85,7 @@ h2 {
     color: #888888;
     font-family: 'Passion One', sans-serif;
     font-weight:100;
-    font-size:3vw
+    font-size:5vw
 }
 
 .paraimage {
