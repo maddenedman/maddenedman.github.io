@@ -8,7 +8,7 @@ body {
     background-attachment:fixed;
 }
 
-div.wholething{
+.wholething{
     width:80vw;
     margin:auto;
 }
@@ -23,7 +23,7 @@ div.wholething{
 h1 {
     text-align:center;
     padding:3px;
-    color:grey;
+    color:lightgrey;
     margin: 25px 0px 10px 0px;
     font-size:6vw;
 }
@@ -35,6 +35,12 @@ h1 {
     font-size:3vw;
     font-family:serif;
     font-style:italic;
+}
+
+.toplink {
+    text-align: right;
+    color: white;
+    font-size: 10px;
 }
 
 ul.menuul {
@@ -64,7 +70,7 @@ li.menuli a:hover {
     background-color: #111111;
 }
 
-div.thing {
+article {
     color:lightgrey;
     background-color:rgba(44,44,44, 0.7);
     border: 2px solid #333333;
@@ -72,12 +78,33 @@ div.thing {
     padding: 0px 5px;
 }
 
+h2 {
+    text-align: center;
+    color: #888888;
+}
+
 .paraimage {
     width:40%;
     padding:5px;
 }
 
-.footer{
+iframe {
+    border: none;
+}
+
+.ytaspect {
+    padding-bottom: 56.25%;
+    position:relative;
+    height: 0;
+}
+
+.ytembed {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+footer{
     color:grey;
     font-size:12px;
     text-align:center;
@@ -85,3 +112,8 @@ div.thing {
     padding: 5px;
     margin: 5px;
 }
+
+a {color:#CCCCCC;}
+a:hover {color:#777777;}
+a:active {color:#EEEEEE;}
+a:visited {color:#DDAAFF;}
