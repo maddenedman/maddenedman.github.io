@@ -1,37 +1,37 @@
 ---
 layout: post
 title:  "Media release: NCIAC re-branded to The Opinion, then back to NCIAC"
-date:   2018-07-30
+date:   2018-07-29
 excerpt: "It was going to be hard to trademark."
 image: "/images/a-computer-picture.jpg"
 ---
 
 ## MEDIA RELEASE
-30 July 2018
+29 July 2018
 
 ### NCIAC re-branded to The Opinion, then back to NCIAC
 
 The National Centre for Inference Assumption and Conjecture today briefly re-branded to The Opinion, before realising that it was not a good idea in the long term.
 
-After thinking about it for a bit, the leadership team of NCIAC realised that ‘The Opinion’ was going to be hard to trademark, and sounded too much like a news website.
+After thinking about it for a bit, the leadership team of NCIAC realised that â€˜The Opinionâ€™ was going to be hard to trademark, and sounded too much like a news website.
 
 NCIAC Wild Goose Chase Detector Fred Heron said that the decision to change back to NCIAC was partially motivated by a desire not to have to file paperwork.
 
-“We had a logo designed by an external company. Business cards were done up with the new branding, and we even had a few conference banners printed,” said Mr Heron.
+â€œWe had a logo designed by an external company. Business cards were done up with the new branding, and we even had a few conference banners printed,â€ said Mr Heron.
 
-“Ultimately though, we discovered that we would have to submit paperwork to change our trading name, which was honestly a bit of hassle.
+â€œUltimately though, we discovered that we would have to submit paperwork to change our trading name, which was honestly a bit of hassle.
 
-“Also, we suspect somebody has already registered the domain name we wanted, which made the brand a bit less appealing.”
+â€œAlso, we suspect somebody has already registered the domain name we wanted, which made the brand a bit less appealing.â€
 
-The brand was to be changed amidst a slight change in strategy for NCIAC. ‘The Opinion’ had tested well with audiences, and had won out over other potential new brands, including ‘Waht I Fink’, ‘Just Another Think Tank’ and ‘Thitankink’ (Think tank, but with the ‘tank’ inside the ‘think’.) 
+The brand was to be changed amidst a slight change in strategy for NCIAC. â€˜The Opinionâ€™ had tested well with audiences, and had won out over other potential new brands, including â€˜Waht I Finkâ€™, â€˜Just Another Think Tankâ€™ and â€˜Thitankinkâ€™ (Think tank, but with the â€˜tankâ€™ inside the â€˜thinkâ€™.) 
 
-NCIAC Chief Executive Officer Grace Mushroom said she had liked the new branding, and had been looking forward to the organisation’s colours transitioning from black and white to ‘burgundy and peuce.’
+NCIAC Chief Executive Officer Grace Mushroom said she had liked the new branding, and had been looking forward to the organisationâ€™s colours transitioning from black and white to â€˜burgundy and peuce.â€™
 
-“It turns out that The Opinion is already the name of a newspaper somewhere in the world, so it probably isn’t the best idea to go with that name, SEO-wise,” she said.
+â€œIt turns out that The Opinion is already the name of a newspaper somewhere in the world, so it probably isnâ€™t the best idea to go with that name, SEO-wise,â€ she said.
 
-“In retrospect, somebody should have done a Google search at some point during the re-branding process. And perhaps they should have checked available domain names as well.
+â€œIn retrospect, somebody should have done a Google search at some point during the re-branding process. And perhaps they should have checked available domain names as well.
 
-“We will continue to be the organisation our audience knows and loves, despite an old-looking and tired logo, and branding that was decided on by a committee twenty years ago.”
+â€œWe will continue to be the organisation our audience knows and loves, despite an old-looking and tired logo, and branding that was decided on by a committee twenty years ago.â€
 
 Media enquiries: media@nciac.com
 
