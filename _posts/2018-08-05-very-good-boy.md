@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dog spotted outside office 'a very good boy' says NCIAC"
+title:  "Dog spotted outside office a very good boy says NCIAC"
 date:   2018-08-05
 excerpt: "Good booooooy."
 image: "/images/such-a-good-boy.jpg"
@@ -16,22 +16,22 @@ A dog, suspected to be a Rhodesian Ridgeback, was today spotted outside the offi
 The occurrence caused an interruption in the work day for a number of NCIAC staff members and consultants, who saw the dog out a window. Some of the staff members left the building in order to pet the dog and make childish noises at it.
 
 NCIAC Investment Expert Chadwick Radwick said that the dog was pretty cool, and had very well groomed fur.
-ìItís pretty clear this guy takes care of his dog, you know. His fur is the colour of the crema on a nice black coffee, like I make with my coffee machine each morning,î Mr Radwick said.
+‚ÄúIt‚Äôs pretty clear this guy takes care of his dog, you know. His fur is the colour of the crema on a nice black coffee, like I make with my coffee machine each morning,‚Äù Mr Radwick said.
 
 Music Opinion Consultant, Bunny Tuppence, agreed that the dog was a good boy, and said she wished she could hug him forever.
 
-ìLook at his widdle face I just want to snuggle him! He looks so cheeky too, like heís making jokes in his head about all of us,î she said.
+‚ÄúLook at his widdle face I just want to snuggle him! He looks so cheeky too, like he‚Äôs making jokes in his head about all of us,‚Äù she said.
 
 The dog, now known to be named Ruffles, was in the process of being taken for a walk by his owner, Dale Phillips.
 Dog Owner Dale Phillips said he was just walking his dog, and had stopped to check the messages on his phone outside the NCIAC office building.
 
-ìI donít know what happened. There was suddenly a group of people in business attire patting Ruffles and making noises at him,î he said.
+‚ÄúI don‚Äôt know what happened. There was suddenly a group of people in business attire patting Ruffles and making noises at him,‚Äù he said.
 
-ìRuffles is usually pretty good with people, but I donít think heís ever had this kind of attention. Good to know he can handle it I suppose.î
+‚ÄúRuffles is usually pretty good with people, but I don‚Äôt think he‚Äôs ever had this kind of attention. Good to know he can handle it I suppose.‚Äù
 
-NCIAC Chief Executive Officer Grace Mushroom said that the dog was ëa very good boyí and that he was ëso nice.í
+NCIAC Chief Executive Officer Grace Mushroom said that the dog was ‚Äòa very good boy‚Äô and that he was ‚Äòso nice.‚Äô
 
-ìRuffles was so polite, it was a pleasure to pat him. I was thrilled to have the opportunity to interact with such a very good boy, and we look forward to future interactions with Ruffles, which I am sure will be positive as well,î she said.
+‚ÄúRuffles was so polite, it was a pleasure to pat him. I was thrilled to have the opportunity to interact with such a very good boy, and we look forward to future interactions with Ruffles, which I am sure will be positive as well,‚Äù she said.
 
 By all accounts, Ruffles continues to be a very good boy.
 
