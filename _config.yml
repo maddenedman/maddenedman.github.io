@@ -29,9 +29,10 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
-
+future:             true
 # Comments
 disqus_shortname:   default
+timezone:           Australia/Sydney
 
 # Social
 analytics-id:       "default"
