@@ -37,4 +37,4 @@ Mr Haversham is available for media comment, provided enquiries do not include t
 
 Media enquiries: media@nciac.com
 
-[Download this media release as a PDF](/mr/180813-mr-nciac-fashion-containment-zones.pdf)
+[Download this media release as a PDF](/mr/180820-mr-nciac-fashion-containment-zones.pdf)
